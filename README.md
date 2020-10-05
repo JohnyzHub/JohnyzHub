@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Johnybasha Shaik
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=vue&show_icons=true&title_color=dark"/>
+<img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=vue&show_icons=true&title_color=dark"/>
 Certified Java developer. Java and JakartaEE enthusiast.
 
 - 🔭 I’m a software enginner 
