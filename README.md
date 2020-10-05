@@ -1,4 +1,6 @@
 ### Hi 👋 I'm Johnybasha Shaik
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=vue&show_icons=true&title_color=dark"/>     
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyzHub&layout=compact"/>     
 
 Certified Java developer. Java and JakartaEE enthusiast.
 
@@ -11,10 +13,10 @@ Certified Java developer. Java and JakartaEE enthusiast.
      * [Twitter](https://twitter.com/johnyfam)
      
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyzHub&layout=compact)](https://github.com/JohnyzHub/github-readme-stats)
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=vue&show_icons=true&title_color=dark"/>     
-<!--
+
 **JohnyzHub/JohnyzHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
