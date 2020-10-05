@@ -2,7 +2,8 @@
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=radical&show_icons=true&title_color=dark"/>
 Certified Java developer. Java and JakartaEE enthusiast.
 
-- 🔭 I’m a software enginner working at Dematic Corporation, North America.
+- 🔭 I’m a software enginner 
+<br>working at Dematic Corporation, North America.
 - 🌱 I’m currently learning serverless computing :cloud:
 - 📫 *Get in touch*:
 
