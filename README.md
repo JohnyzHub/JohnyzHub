@@ -21,7 +21,6 @@ Certified Java developer. Java and JakartaEE enthusiast.
     <img align="left" alt="Azure" width="46px" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" />
     <img align="left" alt="Maven" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
     <img align="left" alt="JakartaEE" width="36px" src="https://github.com/jakartaee/jakarta.ee/blob/src/static/images/jakarta-ee.png" />
-    <img align="left" alt="Microprofile" width="46px" src="https://github.com/microprofile/microprofile-site/blob/master/src/main/static/assets/images/logo.png" />
 
 </br>
 
