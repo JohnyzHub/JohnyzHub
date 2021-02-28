@@ -4,15 +4,14 @@
 
 Certified Java developer. Java and JakartaEE enthusiast.
 
-- 🔭 Software enginner 
+- 🔭 Software engineer 
 <br>working at Dematic Corporation, North America.
 - 🌱 Currently learning cloud computing services.
 - ⚠️ Opinions are mine and only mine. 
 - 📫 *Get in touch*:
 
-    * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://twitter.com/johnyzhub) <br>
-    * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://www.linkedin.com/in/johnyshaik/)
-       <br/>
+     [![LinkedIn](https://img.shields.io/badge/LinkedIn-johnyshaik-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnyshaik/)
+     [![Twitter](https://img.shields.io/badge/Twitter-johnyzhub-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/johnyzhub/)
 
 
 ### Interested in:
@@ -21,8 +20,8 @@ Certified Java developer. Java and JakartaEE enthusiast.
    <img align="left" alt="JakartaEE" width="36px" src="https://github.com/jakartaee/jakarta.ee/blob/src/static/images/jakarta-ee.png" />
    <img align="left" alt="Quarkus" width="56px" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_horizontal_rgb_1280px_default.png" />
    <img align="left" alt="Azure" width="66px" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" />
-   <img align="left" alt="Maven" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
-    
+      
+
 
 </br>
 
