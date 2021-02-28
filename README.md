@@ -14,7 +14,7 @@ Certified Java developer. Java and JakartaEE enthusiast.
      [![Twitter](https://img.shields.io/badge/Twitter-johnyzhub-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/johnyzhub/)
 
 
-### Continuous Learner of:
+#### Continuous Learner of:
 
    <img align="left" alt="Java" width="46px" src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/java.png" style="vertical-align:top" />
    <img align="left" alt="JakartaEE" width="86px" src="https://github.com/jakartaee/jakarta.ee/blob/src/static/images/jakarta-ee.png" style="vertical-align:top" />
