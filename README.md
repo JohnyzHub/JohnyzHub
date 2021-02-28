@@ -22,7 +22,6 @@ Certified Java developer. Java and JakartaEE enthusiast.
   <a href="https://jakarta.ee/">
    <img src="https://github.com/jakartaee/jakarta.ee/blob/src/static/images/jakarta-ee.png" width="86px" alt="Java" style="vertical-align:top; margin:4px">
   </a>
-     <br>
   <a href="https://quarkus.io/">
    <img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_horizontal_rgb_1280px_default.png" width="86px" alt="Java" style="vertical-align:top; margin:4px">
   </a>
