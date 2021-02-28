@@ -6,13 +6,14 @@ Certified Java developer. Java and JakartaEE enthusiast.
 
 - 🔭 Software enginner 
 <br>working at Dematic Corporation, North America.
-- 🌱 I’m currently learning serverless computing :cloud:
+- 🌱 Currently learning cloud computing services.
 - ⚠️ Opinions are mine and only mine. 
 - 📫 *Get in touch*:
 
     * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://twitter.com/johnyzhub) <br>
     * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://www.linkedin.com/in/johnyshaik/)
        <br/>
+
 
 ### Interested in:
 
