@@ -5,7 +5,7 @@
 Certified Java developer. Java and JakartaEE enthusiast.
 
 - 🔭 Software engineer 
-- 🌱 Currently learning cloud computing services.
+- 🌱 Learning cloud computing services.
 - ⚠️ Opinions are mine and only mine. 
 - 📫 *Get in touch*:
 
