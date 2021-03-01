@@ -5,7 +5,6 @@
 Certified Java developer. Java and JakartaEE enthusiast.
 
 - 🔭 Software engineer 
-<br>working at Dematic Corporation, North America.
 - 🌱 Currently learning cloud computing services.
 - ⚠️ Opinions are mine and only mine. 
 - 📫 *Get in touch*:
