@@ -6,7 +6,6 @@ Certified Java developer. Java and JakartaEE enthusiast.
 
 - 🔭 Software engineer 
 - 🌱 Learning cloud computing services.
-- ⚠️ Opinions are mine and only mine. 
 - 📫 *Get in touch*:
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-johnyshaik-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnyshaik/)
