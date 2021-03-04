@@ -14,7 +14,7 @@ Certified Java developer. Java and JakartaEE enthusiast.
 
 #### Continuous Learner of:
 <p>
-  <a href="https://docs.oracle.com/en/java/javase/index.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.oracle.com/en/java/javase/index.html/" target="_blank" rel="noopener noreferrer">
    <img src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/java.png" width="46px" alt="Java" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://jakarta.ee/">
