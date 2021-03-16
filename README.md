@@ -2,7 +2,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=vue&show_icons=true&title_color=dark"/>     
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyzHub&layout=compact"/>     
 
-Certified Java developer. Java and JakartaEE enthusiast.
+Certified Java developer.<br> Certified Azure Developer Associate.<br> Java and JakartaEE enthusiast.
 
 - 🔭 Software engineer 
 - 🌱 Learning cloud computing services.
