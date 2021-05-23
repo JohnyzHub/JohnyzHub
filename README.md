@@ -6,7 +6,7 @@
 Certified Java developer.<br> Certified Azure Developer Associate.<br> Java and JakartaEE enthusiast.
 
 - 🔭 Software engineer 
-- 🌱 Learning cloud computing services.
+- 🌱 practicing cloud computing services.
 - 📫 *Get in touch*:
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-johnyshaik-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnyshaik/)
