@@ -1,5 +1,4 @@
 ### Hi 👋 I'm Johnybasha Shaik
-<img width="50%" align="right" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnyzhub&badges=3&show-header=true&show-avatar=false&style=--header-bg-color:%2200ff;--border-radius:10px"/>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/?username=JohnyzHub&theme=vue&show_icons=true&title_color=dark"/>     
 
