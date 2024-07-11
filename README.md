@@ -16,16 +16,16 @@ Certified Java developer.<br> Certified Azure Developer Associate.<br> Java and 
 #### Continuous Learner of:
 <p>
   <a href="https://docs.oracle.com/en/java/javase/index.html/" target="_blank" rel="noopener noreferrer">
-   <img src="https://raw.githubusercontent.com/jasondlee/jasondlee/master/assets/java.png" width="46px" alt="Java" style="vertical-align:top; margin:4px">
+   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="46px" alt="Java" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://jakarta.ee/">
-   <img src="https://github.com/jakartaee/jakarta.ee/blob/src/static/images/jakarta-ee.png" width="86px" alt="JakartaEE" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/jakartaee/jakarta.ee/blob/src/static/images/jakarta/jakarta-ee-logo-color.svg" width="86px" alt="JakartaEE" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://quarkus.io/">
    <img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_horizontal_rgb_1280px_default.png" width="86px" alt="Quarkus" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://azure.microsoft.com/en-us/">
-   <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="86px" alt="Azure" style="vertical-align:top; margin:4px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="86px"  >
   </a>          
  </p>    
 
